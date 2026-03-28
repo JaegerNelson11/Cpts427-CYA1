@@ -14,27 +14,62 @@ This repository contains the documentation and proof of my application process.
 
 ## Deliverable Proof (Applications Submitted)
 
-1. **Washington State Department of Ecology** (Toxics Cleanup Program Software Engineer)
-   * `WSDoE_1_Desc.png`, `WSDoE_2_App.png`, `WSDoE_3_Done.png`
-2. **Impetus Technologies Inc.** (Data Science/Engineering Intern)
-   * `Impetus_1_Desc.png`, `Impetus_2_App.png`, `Impetus_3_Done.png`
-3. **Great Expectations LLC** (Software Engineering Intern)
-   * `GreatExp_1_Desc.png`, `GreatExp_2_App.png`, `GreatExp_3_Done.png`
-4. **Stoke Space** (Fall 2026 Internship Software)
-   * `Stoke_1_Desc.png`, `Stoke_2_App.png`, `Stoke_3_Done.png`
-5. **Advantest America, Inc.** (Application Engineer Intern)
-   * `Advantest_1_Desc.png`, `Advantest_2_App.png`, `Advantest_3_Done.png`
-6. **OSI Systems** (Software Engineering Intern)
-   * `OSI_1_Desc.png`, `OSI_2_App.png`, `OSI_3_Done.png`
-7. **Portland General Electric** (Application Developer)
-   * `PGE_1_Desc.png`, `PGE_2_App.png`, `PGE_3_Done.png`
-8. **Washington Department of Fish and Wildlife** (SQL Report Analyst)
-   * `WDFW_1_Desc.png`, `WDFW_2_App.png`, `WDFW_3_Done.png`
-9. **Dev10** (Entry Level Software Developer)
-   * `Dev10_1_Desc.png`, `Dev10_2_App.png`, `Dev10_3_Done.png`
-10. **Tata Consultancy Services** (Software Engineer - Entry Level)
-    * `Tata_1_Desc.png`, `Tata_2_App.png`, `Tata_3_Done.png`
-11. **Infoblox Inc** (Software Engineer Intern)
-    * `Infoblox_Soft_1_Desc.png`, `Infoblox_Soft_2_App.png`, `Infoblox_Soft_3_Done.png`
-12. **Infoblox Inc** (Security Engineer Intern)
-    * `Infoblox_Sec_1_Desc.png`, `Infoblox_Sec_2_App.png`, `Infoblox_Sec_3_Done.png`
+**1. Washington State Department of Ecology (Toxics Cleanup Program Software Engineer)**
+![Description](CYA_Assignment_Evidence/WSDoE_1_Desc.png)
+![Application](CYA_Assignment_Evidence/WSDoE_2_App.png)
+![Confirmation](CYA_Assignment_Evidence/WSDoE_3_Done.png)
+
+**2. Impetus Technologies Inc. (Data Science/Engineering Intern)**
+![Description](CYA_Assignment_Evidence/Impetus_1_Desc.png)
+![Application](CYA_Assignment_Evidence/Impetus_2_App.png)
+![Confirmation](CYA_Assignment_Evidence/Impetus_3_Done.png)
+
+**3. Great Expectations LLC (Software Engineering Intern)**
+![Description](CYA_Assignment_Evidence/GreatExp_1_Desc.png)
+![Application](CYA_Assignment_Evidence/GreatExp_2_App.png)
+![Confirmation](CYA_Assignment_Evidence/GreatExp_3_Done.png)
+
+**4. Stoke Space (Fall 2026 Internship Software)**
+![Description](CYA_Assignment_Evidence/Stoke_1_Desc.png)
+![Application](CYA_Assignment_Evidence/Stoke_2_App.png)
+![Confirmation](CYA_Assignment_Evidence/Stoke_3_Done.png)
+
+**5. Advantest America, Inc. (Application Engineer Intern)**
+![Description](CYA_Assignment_Evidence/Advantest_1_Desc.png)
+![Application](CYA_Assignment_Evidence/Advantest_2_App.png)
+![Confirmation](CYA_Assignment_Evidence/Advantest_3_Done.png)
+
+**6. OSI Systems (Software Engineering Intern)**
+![Description](CYA_Assignment_Evidence/OSI_1_Desc.png)
+![Application](CYA_Assignment_Evidence/OSI_2_App.png)
+![Confirmation](CYA_Assignment_Evidence/OSI_3_Done.png)
+
+**7. Portland General Electric (Application Developer)**
+![Description](CYA_Assignment_Evidence/PGE_1_Desc.png)
+![Application](CYA_Assignment_Evidence/PGE_2_App.png)
+![Confirmation](CYA_Assignment_Evidence/PGE_3_Done.png)
+
+**8. Washington Department of Fish and Wildlife (SQL Report Analyst)**
+![Description](CYA_Assignment_Evidence/WDFW_1_Desc.png)
+![Application](CYA_Assignment_Evidence/WDFW_2_App.png)
+![Confirmation](CYA_Assignment_Evidence/WDFW_3_Done.png)
+
+**9. Dev10 (Entry Level Software Developer)**
+![Description](CYA_Assignment_Evidence/Dev10_1_Desc.png)
+![Application](CYA_Assignment_Evidence/Dev10_2_App.png)
+![Confirmation](CYA_Assignment_Evidence/Dev10_3_Done.png)
+
+**10. Tata Consultancy Services (Software Engineer)**
+![Description](CYA_Assignment_Evidence/Tata_1_Desc.png)
+![Application](CYA_Assignment_Evidence/Tata_2_App.png)
+![Confirmation](CYA_Assignment_Evidence/Tata_3_Done.png)
+
+**11. Infoblox Inc (Software Engineer Intern)**
+![Description](CYA_Assignment_Evidence/Infoblox_Soft_1_Desc.png)
+![Application](CYA_Assignment_Evidence/Infoblox_Soft_2_App.png)
+![Confirmation](CYA_Assignment_Evidence/Infoblox_Soft_3_Done.png)
+
+**12. Infoblox Inc (Security Engineer Intern)**
+![Description](CYA_Assignment_Evidence/Infoblox_Sec_1_Desc.png)
+![Application](CYA_Assignment_Evidence/Infoblox_Sec_2_App.png)
+![Confirmation](CYA_Assignment_Evidence/Infoblox_Sec_3_Done.png)
