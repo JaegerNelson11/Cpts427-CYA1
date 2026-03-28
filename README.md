@@ -9,7 +9,7 @@ My short term goal is to get a software engineering or database management posit
 ## Deliverable Summary
 This repository contains the documentation and proof of my application process. 
 * **Application_Evidence Folder:** Contains screenshots of the job description, the completed application form, and the submission confirmation for each of the 12 roles.
-* **Resume & Cover Letters:** Customized application materials tailored to specific job requirements.
+* **Resume** My personal resume used for the applications.
 * **Reflection.md:** A detailed report analyzing this career development exercise.
 
 ## Deliverable Proof (Applications Submitted)
